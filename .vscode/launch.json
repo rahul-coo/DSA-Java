@@ -1,0 +1,469 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CyclicSort",
+            "request": "launch",
+            "mainClass": "CyclicSort",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "select",
+            "request": "launch",
+            "mainClass": "select",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "bubble",
+            "request": "launch",
+            "mainClass": "bubble",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "Bubble",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "Rowcolmatrix",
+            "request": "launch",
+            "mainClass": "BinarSearch2D.Rowcolmatrix",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "Split_Array",
+            "request": "launch",
+            "mainClass": "Split_Array",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "RBS_Duplicate_no",
+            "request": "launch",
+            "mainClass": "RBS_Duplicate_no",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBinarySarch",
+            "request": "launch",
+            "mainClass": "RotatedBinarySarch",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "com.kunal.BinarySearch",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "linear_search",
+            "request": "launch",
+            "mainClass": "linear_search",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "Swap_whole_array",
+            "request": "launch",
+            "mainClass": "Swap_whole_array",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "MultiAL",
+            "request": "launch",
+            "mainClass": "MultiAL",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "Multi_arrayList",
+            "request": "launch",
+            "mainClass": "Multi_arrayList",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Swap",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "HCF",
+            "request": "launch",
+            "mainClass": "HCF",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "LeapYearChecker",
+            "request": "launch",
+            "mainClass": "LeapYearChecker",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_the_string",
+            "request": "launch",
+            "mainClass": "Reverse_the_string",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "SI",
+            "request": "launch",
+            "mainClass": "SI",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "area_circle",
+            "request": "launch",
+            "mainClass": "area_circle",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "area_parlellogram",
+            "request": "launch",
+            "mainClass": "area_parlellogram",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "area_rect",
+            "request": "launch",
+            "mainClass": "area_rect",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "avg_n",
+            "request": "launch",
+            "mainClass": "avg_n",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "batting_avg",
+            "request": "launch",
+            "mainClass": "batting_avg",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "bb",
+            "request": "launch",
+            "mainClass": "bb",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "c_vovel",
+            "request": "launch",
+            "mainClass": "c_vovel",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "cgpa",
+            "request": "launch",
+            "mainClass": "cgpa",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "commision",
+            "request": "launch",
+            "mainClass": "commision",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "depriciation",
+            "request": "launch",
+            "mainClass": "depriciation",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "discount",
+            "request": "launch",
+            "mainClass": "discount",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "distance",
+            "request": "launch",
+            "mainClass": "distance",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "electric_bill",
+            "request": "launch",
+            "mainClass": "electric_bill",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "even_odd",
+            "request": "launch",
+            "mainClass": "even_odd",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "factor",
+            "request": "launch",
+            "mainClass": "factor",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "fibo",
+            "request": "launch",
+            "mainClass": "fibo",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "future_invest",
+            "request": "launch",
+            "mainClass": "future_invest",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "greeting",
+            "request": "launch",
+            "mainClass": "greeting",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "hcf_lcm",
+            "request": "launch",
+            "mainClass": "hcf_lcm",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "intrest",
+            "request": "launch",
+            "mainClass": "intrest",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "larg_num_0",
+            "request": "launch",
+            "mainClass": "larg_num_0",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "largest",
+            "request": "launch",
+            "mainClass": "largest",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "leap_year",
+            "request": "launch",
+            "mainClass": "leap_year",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "multiplicationoftwo",
+            "request": "launch",
+            "mainClass": "multiplicationoftwo",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "ncr_npr",
+            "request": "launch",
+            "mainClass": "ncr_npr",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "operator",
+            "request": "launch",
+            "mainClass": "operator",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "p_eq_tri",
+            "request": "launch",
+            "mainClass": "p_eq_tri",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "p_of_perlelo",
+            "request": "launch",
+            "mainClass": "p_of_perlelo",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "palindrome_no",
+            "request": "launch",
+            "mainClass": "palindrome_no",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "palindrome_string",
+            "request": "launch",
+            "mainClass": "palindrome_string",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "perfect_no",
+            "request": "launch",
+            "mainClass": "perfect_no",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "perimeter_circle",
+            "request": "launch",
+            "mainClass": "perimeter_circle",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "power",
+            "request": "launch",
+            "mainClass": "power",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "rupee",
+            "request": "launch",
+            "mainClass": "rupee",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "smallest_num_1",
+            "request": "launch",
+            "mainClass": "smallest_num_1",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_digit",
+            "request": "launch",
+            "mainClass": "sum_of_digit",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "sumoftwo",
+            "request": "launch",
+            "mainClass": "sumoftwo",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "take_no",
+            "request": "launch",
+            "mainClass": "take_no",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "triangle",
+            "request": "launch",
+            "mainClass": "triangle",
+            "projectName": "Code_D_931df4ba"
+        },
+        {
+            "type": "java",
+            "name": "volume",
+            "request": "launch",
+            "mainClass": "volume",
+            "projectName": "Code_D_931df4ba"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+
+import java.util.Arrays;
+
+public class b_Swap {
+    public static void main(String[] args) {
+        int [] arr={1,2,3,4,5};
+        swap (arr, 1,3);
+
+        System.out.println(Arrays.toString(arr));
+    }
+    static void swap(int[] arr,int index1,int index2){
+
+
+
+        
+        int temp= arr[index1];
+        arr[index1]=arr[index2];
+        arr[index2]=temp;  // if you will take arr[index1] in place of temp 
+    }                      // than you wll get updated value of it not original value 
+}
